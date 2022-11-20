@@ -1,5 +1,3 @@
-# Header 
+# My first readme
 
-My first readme
-
-Updated for task 4
+* Later updated for task 4
